@@ -1,0 +1,6 @@
+回声“＃HelloWorld1” >> README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git remote add origin https://github.com/Rock1918/HelloWorld1.git
+ git push -u origin master
